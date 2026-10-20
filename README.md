@@ -196,5 +196,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 - **Project Creator**: Aditya
 - **GitHub**: [@AdityaTamakuwala](https://github.com/AdityaTamakuwala)
-- **LinkedIn**: [https://www.linkedin.com/in/adityatamakuwala](https://www.linkedin.com/in/adityatamakuwala) *(Update with your direct URL if different)*
-- **Email**: `your.professional.email@example.com` *(Update with your active email address)*
+- **LinkedIn**: [https://www.linkedin.com/in/adityatamakuwala](www.linkedin.com/in/aditya-tamakuwala-122442316) 
+- **Email**: `adityatamakuwala72@gmail.com` 
