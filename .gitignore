@@ -1,0 +1,46 @@
+# Virtual Machine Disks, Appliances, and Snapshots
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.ova
+*.ovf
+*.vbox
+*.vbox-prev
+*.nvram
+
+# Operating System ISO Images
+*.iso
+*.img
+
+# Logs and Runtime Dumps
+*.log
+*.dmp
+*.crash
+
+# Secrets, Passwords, and Environment Configs
+*password*.txt
+*.env
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+
+# OS and Editor Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Cache
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
